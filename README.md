@@ -6,3 +6,5 @@
 I would like to put together a team of collaborators to create a mobile phone based solution that is open and easily accesible to citizens to enable them communicate to their respective authorities regarding issues of health and education.
 These authorities could be local or national governments.
 For starters we are going to create a paper p
+
+#Contributing to this project
