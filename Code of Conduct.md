@@ -5,17 +5,17 @@ We value the participation of all members of our community , and those intereste
 Orientation. Everyone who contributes to The Citizen-E(Citizen-E)project  is expected to show respect and courtesy to other community members at all time. 
 ## The short Version 
 The Citizen-E community contributors are dedicated to harassment  and discrimination free environment  for  everyone. We are particularly motivated to support new and/or anxious contributors, those  looking to learn and develop their skills, and anyone who has experienced discrimination in the past. 
-Be kind to others. Do not insult or put down other contributors .
-Behave professionally. Remember that harassment and sexist, racist, or exclusionary jokes are not appropriate.
-Community members are expected to use welcoming and inclusive language and to be respectful of differing viewpoints and experiences
-Gracefully accepting constructive criticism
-Focusing on what is best for the community
- Showing empathy towards other community members
-The use of sexualized language or imagery and unwelcome sexual attention or
+* Be kind to others. Do not insult or put down other contributors .
+2. Behave professionally. Remember that harassment and sexist, racist, or exclusionary jokes are not appropriate.
+3. Community members are expected to use welcoming and inclusive language and to be respectful of differing viewpoints and experiences
+4. Gracefully accepting constructive criticism
+5. Focusing on what is best for the community
+6. Showing empathy towards other community members
+7. The use of sexualized language or imagery and unwelcome sexual attention or
 advances
-Trolling, insulting/derogatory comments, and personal or political attacks, Public or private harassment will not be tolerated.  
-Publishing others' private information, such as a physical or electronic address, without explicit permission
-Any Other conduct which could reasonably be considered inappropriate in a
+8. Trolling, insulting/derogatory comments, and personal or political attacks, Public or private harassment will not be tolerated.  
+9.  Publishing others' private information, such as a physical or electronic address, without explicit permission
+10. Any Other conduct which could reasonably be considered inappropriate in a
   professional setting
 
 
