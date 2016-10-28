@@ -26,7 +26,7 @@ Harassment includes offensive verbal comments related to gender, sexual orientat
 Participants asked to stop any harassing behavior are expected to comply immediately.
 Be careful in the words that you choose. Remember that sexist, racist, and other exclusionary jokes can be offensive to those around you.
 Enforcement
-Instances of abusive, harassing, or otherwise unacceptable behavior may be  reported by contacting the project team leads  at [bonfaceo3@gmail.com , xelawafs@gmail.com ]. All complaints will be reviewed and investigated and will result in a response that is deemed necessary and appropriate to the circumstances. The project team is obligated to maintain confidentiality with regard to the reporter of an incident. Further details of specific enforcement policies may be posted separately.
+Instances of abusive, harassing, or otherwise unacceptable behavior may be  reported by contacting the project team leads  at [bonfaceo3@gmail.com , winniemakokha@gmail.com, duncanw@digitaldividedata.com]. All complaints will be reviewed and investigated and will result in a response that is deemed necessary and appropriate to the circumstances. The project team is obligated to maintain confidentiality with regard to the reporter of an incident. Further details of specific enforcement policies may be posted separately.
 
 
 Project maintainers who do not follow or enforce the Code of Conduct in good faith may face temporary or permanent repercussions as determined by other members of the project's leadership.
